@@ -18,4 +18,8 @@ t/02.t
 t/03.t
 t/04.t
 t/05.t
+t/06.t
+t/07.t
+t/08.t
+t/09.t
 typemap
